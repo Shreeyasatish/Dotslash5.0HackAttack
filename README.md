@@ -1,4 +1,4 @@
-# Image Captioning Web Application
+# Visual to Vocal: Image Captioning and Audio Synthesis
 
 This web application allows users to generate captions and audio for images using a deep learning model.
 
